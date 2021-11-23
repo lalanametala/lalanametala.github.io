@@ -29,7 +29,6 @@ h1 {
 h4{
     font-size: larger;
     color: #495057;
-    margin-top: 20px;
     margin-bottom: 20px;
 }
 #foto {
@@ -57,7 +56,8 @@ p {
     padding: 1px;
     background-color: darkslategrey;
 }
-.description {
+
+.description {    
     display: inline-block;
     width: 25%;
     vertical-align:top;
@@ -65,4 +65,12 @@ p {
 }
 .skills-section {
     clear: both;
+    margin-top: 20px;
+    background-color: #E9ECEF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.external-links {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
