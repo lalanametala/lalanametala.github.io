@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #CED4DA;
+    font-family: 'Grandstander', cursive;
+    text-align: center;
+}
+#header {
+    background-color: #E9ECEF;
+    height: 50px;
+}
+.links {
+    text-decoration: none;
+    background-color: #495057;
+    color: #E9ECEF;
+    line-height: 2em;
+    padding: 12px;
+    border-radius: 20%;
+}
+.links:hover {
+    background-color: #343A40
+}
+h1 {
+    color: #343A40;
+    padding: 50px;
+}
+h4{
+    font-size: larger;
+    color: #495057;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#foto {
+    border-radius: 50%;
+}
+#linkTrybe {
+    text-decoration: none;
+    color: #588157;
+    font-weight: 900;
+}
+p {
+    color: #6C757D;
+    margin-bottom: 10px;
+}
+.skills-header {
+    color: #495057;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+#hard-skills-header {
+    margin-top: 310px;
+}
