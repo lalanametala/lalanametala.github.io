@@ -47,19 +47,17 @@ p {
     color: #495057;
     font-weight: 700;
     margin-bottom: 20px;
+    text-decoration: underline;
 }
 
 .picture-section {
-    display: inline-block;
-    padding: 1px;
-    background-color: darkslategrey;
+    display: inline-block;    
 }
 
 .description {    
     display: inline-block;
     width: 25%;
     vertical-align:top;
-    padding:2%;
 }
 .skills-section {
     clear: both;
@@ -72,7 +70,8 @@ p {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-ul li:nth-child(odd) {
-    background-color: #6C757D;
-    margin: auto;
+
+.pic-e-desc {
+    display: inline-block;
+    vertical-align: middle;
 }
